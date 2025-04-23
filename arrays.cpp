@@ -23,5 +23,5 @@ int main (){
     // linear search algo 
     int linearsearch
 
-    return 0;
+    
 }
